@@ -1,2 +1,0 @@
-ykey = "OASrJXw5zIVBqNKlG8L1jlemCZeKrDv4BFrM0dgLp1R-ccRT0I-Tg_ebXFlXQR9lnzI5UbxOpFhNGIyJTcpd0w_vzUswFswI2Vr_sruhKUQLoIqZPNnbS48XpLuiXHYx"
-gkey = 'AIzaSyBnzUXuX5hhARM4eFOMZra9v3DB3xH0IpE'
